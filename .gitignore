@@ -1,0 +1,26 @@
+﻿# Build output
+build/
+app/build/
+.gradle/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Local machine config and signing material - never commit
+local.properties
+*.jks
+*.keystore
+keystore.properties
+
+# Secrets
+.env
+secrets.properties

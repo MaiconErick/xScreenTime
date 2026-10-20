@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- hourly bars -->
+    <path android:fillColor="#FF22E5FF" android:pathData="M34,62h6v12h-6z" />
+    <path android:fillColor="#FF22E5FF" android:pathData="M43,50h6v24h-6z" />
+    <path android:fillColor="#FFB26BFF" android:pathData="M52,40h6v34h-6z" />
+    <path android:fillColor="#FFB26BFF" android:pathData="M61,54h6v20h-6z" />
+    <path android:fillColor="#FFFF4FD8" android:pathData="M70,46h6v28h-6z" />
+    <path android:fillColor="#40FFFFFF" android:pathData="M32,76h46v2h-46z" />
+</vector>
